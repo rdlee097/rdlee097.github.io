@@ -2,7 +2,7 @@
   "basics": {
     "name": "Daniel Lee",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://rdlee097.github.io/images/self (2).jpg",
     "email": "rdlee@hawaii.edu",
     "phone": "808-779-3609",
     "website": "https://rdlee097.github.io",
@@ -22,13 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "Daniel Lee",
+        "username": "DanielLee",
         "url": "https://www.linkedin.com/in/daniel-lee-b1465719b/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
