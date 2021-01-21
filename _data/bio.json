@@ -1,159 +1,163 @@
 {
-  "basics": {
-    "name": "Daniel Lee",
-    "label": "UHM Undergraduate",
-    "picture": "https://rdlee097.github.io/images/Self (2).jpg",
-    "email": "rdlee@hawaii.edu",
-    "phone": "808-779-3609",
-    "website": "https://rdlee097.github.io",
-    "summary": "I am studying for a B.B.A. in Finance in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Daniel Lee",
+      "label":"UHM Undergraduate",
+      "picture":"https://rdlee097.github.io/images/Self (2).jpg",
+      "email":"rdlee@hawaii.edu",
+      "phone":"808-779-3609",
+      "website":"https://rdlee097.github.io",
+      "summary":"I am studying for a B.B.A. in Finance in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2021.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"rdlee097",
+            "url":"https://github.com/rdlee097"
+         },
+         {
+            "network":"linkedin",
+            "username":"DanielLee",
+            "url":"https://www.linkedin.com/in/daniel-lee-b1465719b/"
+         },
+         {
+            "network":"instagram",
+            "username":"dan_taee",
+            "url":"https://www.instagram.com/dan_taee/"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "rdlee097",
-        "url": "https://github.com/rdlee097"
+         "name":"Cooking",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "DanielLee",
-        "url": "https://www.linkedin.com/in/daniel-lee-b1465719b/"
+         "name":"Video Games",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "instagram",
-        "username": "dan_taee",
-        "url": "https://www.instagram.com/dan_taee/"
+         "name":"Traveling",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Cooking",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Video Games",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Traveling",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Finance and Management Information Systems (expected Spring, 2021)",
-      "studyType": "B.B.A.",
-      "startDate": "2018",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Chingu",
-      "position": "Lead Line Cook",
-      "website": "",
-      "startDate": "2018",
-      "endDate": "Present",
-      "summary": "Management of BOH team and production",
-      "highlights": [
-        "Maintain, update, and oversee operations",
-      ]
-    },
-    {
-      "company": "Blazin Steaks",
-      "position": "Supervisor",
-      "website": "",
-      "startDate": "2016",
-      "endDate": "Present",
-      "summary": "Management of both BOH and FOH team and operation",
-      "highlights": [
-        "Ensure production and endorse friendly service",
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Susan G. Komen",
-      "website": "https://ww5.komen.org/",
-      "position": "Crowd Management",
-      "startDate": "2019-10-19",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "level":"",
+         "keywords":[
+            "C",
+            "C++",
+            "Java",
+            "Javascript",
+            "Assembly",
+            "Common Lisp"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[
+            "MacOS",
+            "Ubuntu",
+            "Git/GitHub",
+            "g++",
+            "TI LaunchPad"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Finance and Management Information Systems (expected Spring, 2021)",
+         "studyType":"B.B.A.",
+         "startDate":"2018",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Chingu",
+         "position":"Lead Line Cook",
+         "website":"",
+         "startDate":"2018",
+         "endDate":"Present",
+         "summary":"Management of BOH team and production",
+         "highlights":[
+            "Maintain, update, and oversee operations"
+         ]
+      },
+      {
+         "company":"Blazin Steaks",
+         "position":"Supervisor",
+         "website":"",
+         "startDate":"2016",
+         "endDate":"Present",
+         "summary":"Management of both BOH and FOH team and operation",
+         "highlights":[
+            "Ensure production and endorse friendly service"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Susan G. Komen",
+         "website":"https://ww5.komen.org/",
+         "position":"Crowd Management",
+         "startDate":"2019-10-19",
+         "summary":"Lead developer for weather sensing project",
+         "highlights":[
+            "Design firmware for distributed weather sensor network",
+            "Maintain custom data collection and storage infrastructure"
+         ]
+      },
+      {
+         "organization":"",
+         "website":"",
+         "position":"Professional organization involvement",
+         "startDate":"",
+         "endDate":"",
+         "summary":"",
+         "highlights":[
+            "Chair, ACM Manoa, 2016-Present",
+            "Member, IEEE Student Branch, 2014-Present",
+            "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"B+ Scholarship",
+         "date":"2013-Present",
+         "awarder":"State of Hawaii",
+         "summary":"Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      },
+      {
+         "title":"First place",
+         "date":"2015",
+         "awarder":"University of Hawaii Micromouse Competition",
+         "summary":"My team won first place in 2015.  See my portfolio site for more details."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
