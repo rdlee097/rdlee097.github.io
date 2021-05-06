@@ -10,14 +10,30 @@ MIS
 
 What did you learn from this assignment?
 
+This assignment taught server side procssing and how to integrate that with actions in both webpages and form actions. Understanding how an action correlates to the server and having a path be able to redirect was thoroughly practiced. To save a query string and the information of the purchase for our websites while making sure a function would work properly was a large portion.
+
 Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
+
+I did not have a partner for this assignment, it was done on my own.
 
 How did you get help when you needed it? What did you need help with?
 
+Most of the help that I got was through rewatching screencasts from the labs or assignments that correlated to the assignment. When running into a problem, using websites like google, w3schools, developer.mozilla, and stackoverflow were incredibly useful to see examples of how a function or installed system worked. Most of the research I had to do was by understanding systems like filesystem and express and how to integrate that into my assignments.
+
 How was developing this assignment different than assignment #1?
+
+Having to redirect based on what the user needed to reach the invoice page was a bit of a challenge. From keeping inputed data, to adding in user data to the json file a differnt type of management. By having to save each change and test how those changes affected the page was a differnt set of challenges. The actions for each Post was not as difficult to understand but making sure all data inputs were entered correctly was a different challenge.
 
 Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
 
+Thinking of how to do something: 20%
+Writing Code: 40%
+Testing and debugging: 40%
+
 Describe what worked well with this project? What did not work well?
 
+Returning back to previous labs in screencasts was really helpful in this project. Being able to follow step by step on why a line of code affects, for example, how grabbing a query sting from username can affect the inputs for the data in the json array's name, email, and password. Assigning requests to variables and naming variables in an easier to digest format was crucial to each server post. By assigning variables, requests were shorter to understand, and easier to map out how a for, else, or if statement uses each command. Organization of changes, and managing comments were a bit harder as there were more lines invovled in a post, adding to the difficulty of what section of code produces which response.
+
 If you could go back in time and do things differently, what would you do differently?
+
+First would be to work on one page at a time. When I first began working on the assignment, I would try to set up each html page at the same time so the pages would look similar in format. This was a bad decision as it was harder to manage each change when working on the server posts. Working and testing each line of code does take longer when writing, it can help save more time on debugging and having to work backwards to fix a problem as it comes up.
